@@ -1,0 +1,3 @@
+- [x] finir le script
+- [x] prévenir le complice
+- [ ] faire le ménage dans le repo
